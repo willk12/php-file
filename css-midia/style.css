@@ -46,3 +46,8 @@ body footer .rodape .coluna-2 ul li {
 body footer .rodape .coluna-3 {
   width: 33%;
 }
+.button-index {
+  widows: 200px;
+  background-color: aqua;
+  height: 200px;
+}
