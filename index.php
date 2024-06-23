@@ -18,9 +18,14 @@ include'./inc-midia/configuracoes.php'
         <div class="d-flex flex-column p-2 ">
             <h2>Olá sou William Almeida Lima</h2>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus, sint? Sint aut exercitationem voluptas, numquam laudantium officia enim deleniti. Aut, explicabo tempore. Modi vitae eum nemo repellat minus laudantium temporibus!</p>
+            <?php echo $contato2; ?>
         </div>
 
     </div>
+    <?php
+    $contato2 = '2484-05669';
+    
+    ?>
 
 
     <?php include 'footer.php'; ?>
